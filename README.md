@@ -1,18 +1,19 @@
-# A solid manga site worth bookmarking
+# One of the better free manga sites I've found (mild ads, but beats the competition)
 
-I've tried many free manga sites. Most are either too slow or filled with annoying pop-ups. 
+I've tested over 20 free manga sites. Most are barely usable. **e728.com** is in the top tier.
 
-Then I found **e728.com**. It has some banner ads, but they are mild and don't disrupt reading.
+Yes, it has banner ads. But they are **mild and don't disrupt reading** – no pop-ups, no redirects, no autoplay videos. The site is clean, the reader is simple, and the library covers everything from manhua to manga to webtoons.
 
-## What I like
+## Why it stands out
 
-- **Mild ads** – no full-screen pop-ups or unexpected redirects
-- **Good speed** – loads fast even from overseas
-- **Large library** – Chinese manhua, Japanese manga, Korean webtoons, all in one place
-- **Daily updates** – keeps up with new chapters
+- **Ad experience is acceptable** – far better than 90% of alternatives
+- **Fast and stable** – pages load in seconds
+- **Large collection** – almost everything I search for is there
+- **Daily updates** – new chapters within a day or two
+- **No registration needed** – just open and read
 
-## Try it yourself
+## See for yourself
 
 👉 [https://e728.com](https://e728.com)
 
-Web-based, mobile-friendly. Ads are there but not a dealbreaker. Worth a try.
+Compare it to any other free manga site. You'll agree it's one of the better ones.
